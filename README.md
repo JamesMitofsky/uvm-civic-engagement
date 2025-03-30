@@ -1,4 +1,4 @@
-# UVM Votes
+# UVM Civic Engagement
 Voting is a crucial feature of civic engagement, and making it accessible to everyone is our mission. This statically generated site is created with Eleventy, deployed over Netlify, and accessible by authorized editors [through the CMS](https://uvm.vote/admin/).
 
 ![](https://www.uvm.vote/assets/images/UVM-Votes-Preview-07-16-21.png)
